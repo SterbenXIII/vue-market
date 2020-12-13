@@ -68,6 +68,7 @@
     width: 200px;
     cursor: pointer;
     text-align: left;
+    
   }
   .title {
     border: solid 1px #aeaeae;
