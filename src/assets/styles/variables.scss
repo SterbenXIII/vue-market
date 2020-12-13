@@ -1,0 +1,21 @@
+.btn {
+    padding: $padding $padding*2;
+    background: $green-bg;
+    color: #ffffff;
+    border: 0;
+    border-radius: $radius;
+    outline: none;
+    cursor: pointer;
+    &:hover {
+      background: $green-bg-hover;
+    }
+  }
+
+
+$padding: 8px;
+$margin: 8px;
+
+$green-bg: #26ae68;
+$green-bg-hover: #31c375;
+
+$radius: 4px;
